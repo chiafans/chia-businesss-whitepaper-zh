@@ -1,5 +1,7 @@
 # Chia Network商业白皮书（简体中文）
 
+![](https://user-images.githubusercontent.com/16535685/115115290-3b2bcf80-9fc6-11eb-82fd-829fb722127f.png)
+
 **CHIA NETWORK INC.**
 
 **商业白皮书**
